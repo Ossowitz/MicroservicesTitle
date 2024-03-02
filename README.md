@@ -1,4 +1,4 @@
-// TODO: 29.09.2024 Initial commit
+![int.png](attach%2Fint.png)
 
 # 1. Обзор микросервисной архитектуры
 
